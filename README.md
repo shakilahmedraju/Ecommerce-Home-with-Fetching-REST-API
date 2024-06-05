@@ -1,4 +1,4 @@
-# Ecommerce Home with Fetching REST API
+# Ecommerce Home with Fetching REST API | React JS, Tailwind CSS
 
 This project is a simple ecommerce home page built using React.js and Tailwind CSS. It includes features such as a sidebar, side menu, fetching products from a REST API, sticky header, and a filter component.
 
